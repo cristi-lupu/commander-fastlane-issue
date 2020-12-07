@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{A gem for reproducing the issue of Fastlane}
   spec.description   = %q{Gem reproduces the issue of FastlaneCore::UI.command method}
-  spec.homepage      = "https://github.com/fastlane/fastlane"
+  spec.homepage      = "https://github.com/cristi-lupu/commander-fastlane-issue"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
   spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
