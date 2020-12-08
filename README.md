@@ -14,5 +14,5 @@ module FastlaneCore
       self.ui_object.command(message)
     end
   end
-+end
+end
 ```
